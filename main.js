@@ -1,3 +1,5 @@
+// https://github.com/murkulL/FrontEndPro/tree/main/hw12
+// ссылка на домашку ))
 
 document.addEventListener('DOMContentLoaded', function() {
 
